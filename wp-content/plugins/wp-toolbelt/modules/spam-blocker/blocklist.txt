@@ -1279,6 +1279,9 @@ _zapat
 -somehack.
 -somehack/
 -speed-up-
+-spielideen-
+-spielideen.
+-spielideen/
 -sport.site
 -store.
 -store/
@@ -1337,7 +1340,7 @@ _zapat
 -tatuagens-
 -tatuagens.
 -tatuagens/
--tax-attorney
+-tax-attorn
 -tax-relief
 -tax-settlement
 -teen-in-
@@ -2350,6 +2353,9 @@ _zapat
 .space/femme
 .space/free
 .space/homme
+.spielideen-
+.spielideen.
+.spielideen/
 .spruz.
 .stream/wiki
 .su,
@@ -3723,6 +3729,7 @@ _zapat
 /insurance-
 /insurance.
 /internal/
+/inx.lv
 /ip/
 /iphone-s-
 /iphone-s.
@@ -4511,6 +4518,9 @@ _zapat
 /specialprojects.
 /specials-
 /specials.
+/spielideen-
+/spielideen.
+/spielideen/
 /stan.to
 /start.
 /stats/
@@ -4567,7 +4577,7 @@ _zapat
 /tatuagens-
 /tatuagens.
 /tatuagens/
-/tax-attorney
+/tax-attorn
 /telecharger-
 /telecharger.
 /temp/
@@ -5205,6 +5215,7 @@ $sixty
 1the-best
 1title
 1to1
+1vine
 1xbet
 1you
 2 appli
@@ -5295,8 +5306,9 @@ $sixty
 3the best
 3the-best
 3title
-3win8
-3ww3
+3twenty
+3win
+3ww
 3you
 4 cash
 4 casino
@@ -6139,11 +6151,11 @@ acai-
 acai-diet
 acai.diet
 acaiberry
-accident attorney
+accident attorn
 accident lawyer
-accident-attorney
+accident-attorn
 accident-lawyer
-accidentattorney
+accidentattorn
 accidentlawyer
 according you
 according-you
@@ -8826,7 +8838,10 @@ bermutu-ting
 berracom.ph
 besstet
 best anal
+best article about
+best attorn
 best birthday bouquet
+best blog about
 best blogging
 best bodycon
 best booster
@@ -8852,7 +8867,9 @@ best mcm
 best nautical decor
 best nautical home
 best online
+best page about
 best pant
+best paragraph about
 best payment
 best places botox
 best porn
@@ -8863,11 +8880,12 @@ best sandal
 best sex
 best shapewear
 best shoe price
+best site about
 best suppl
 best tummy
 best vape
 best vpn service
-best web
+best web about
 best webmaster
 best wordpress
 best writing comp
@@ -8875,6 +8893,7 @@ best writing serv
 best you can see
 best_small_
 best-anal
+best-attorn
 best-blogging
 best-bodycon
 best-booster
@@ -8935,6 +8954,7 @@ best4
 bestad.
 bestads.
 bestairjordan
+bestattorn
 bestblog
 bestbut
 bestcartier
@@ -9036,12 +9056,14 @@ betting article
 betting news
 betting on mlb
 betting online
+betting platform
 betting script
 betting site
 betting website
 betting-article
 betting-news
 betting-online
+betting-platform
 betting-script
 betting-site
 betting-website
@@ -9383,6 +9405,8 @@ blog ::
 blog ..
 blog (wordpress
 blog a menudo
+blog about animal
+blog admin
 blog article
 blog based
 blog beast
@@ -9475,6 +9499,7 @@ blog_comente
 blog-0
 blog-1
 blog-2
+blog-admin
 blog-based
 blog-beast
 blog-before
@@ -9561,6 +9586,7 @@ blog/web
 blog0
 blog1
 blog2
+blogadmin
 blogbased
 blogbeast
 blogblog
@@ -11384,6 +11410,7 @@ casino online
 casino only
 casino partic
 casino phish
+casino review
 casino script
 casino site
 casino slot
@@ -11408,6 +11435,7 @@ casino-online
 casino-only
 casino-partic
 casino-phish
+casino-review
 casino-script
 casino-site
 casino-slot
@@ -13162,6 +13190,8 @@ coinvest
 coinxbox
 cokment
 colastrina
+colchon alta gama
+colchones alta gama
 collectif abssice
 collectif celine
 collectif moncler
@@ -13548,11 +13578,11 @@ construct chicken
 construct-chicken
 constructionn
 construtor
-consultation attorney
+consultation attorn
 consultation lawyer
-consultation-attorney
+consultation-attorn
 consultation-lawyer
-consultationattorney
+consultationattorn
 consultationlawyer
 consulte nuestro servicio
 consumer buzz
@@ -14505,9 +14535,9 @@ dealuk
 dealus
 dear-lover
 dearlover
-death attorney
+death attorn
 death erotic
-death-attorney
+death-attorn
 death-erotic
 deatherotic
 debt money
@@ -15578,6 +15608,10 @@ duchesssatin
 dude.de
 dudes.de
 dugg some
+dui attorn
+dui lawyer
+dui-attorn
+dui-lawyer
 dulichtrongoi
 dulichtuxu
 dummytest
@@ -15622,8 +15656,8 @@ dvd-asphyx
 dvd-erotic
 dvdbox
 dvdrip
-dwi-attorney
-dwiattorney
+dwi-attorn
+dwiattorn
 dwn.linksind.
 dylongfa
 dynamic advert
@@ -16541,7 +16575,7 @@ every info
 every stuff
 every wearer
 every-advert
-every-great-attorney
+every-great-attorn
 every-info
 every-leg
 every-light
@@ -16632,9 +16666,7 @@ excessively skill
 excessively-skill
 exchange buying and selling
 exchange link
-exchange paysafecard
 exchange-link
-exchange-paysafecard
 exchangelink
 exchanging link
 exchanging-link
@@ -18250,6 +18282,7 @@ free crypto
 free csgo
 free diamond
 free download
+free ecard
 free escort
 free eskort
 free facebook
@@ -18324,6 +18357,7 @@ free-crypto
 free-csgo
 free-diamond
 free-download
+free-ecard
 free-escort
 free-eskort
 free-facebook
@@ -18412,6 +18446,7 @@ freedom-review
 freedomevaluation
 freedomreview
 freedownload
+freeecard
 freeescort
 freeeskort
 freefor.co
@@ -22446,20 +22481,20 @@ initial traffic?
 injection fact
 injection-fact
 injectionfact
-injuries attorney
+injuries attorn
 injuries insur
 injuries lawyer
-injuries-attorney
+injuries-attorn
 injuries-insur
 injuries-lawyer
-injuriesattorney
+injuriesattorn
 injuriesinsur
 injurieslawyer
-injury attorney
+injury attorn
 injury lawyer
-injury-attorney
+injury-attorn
 injury-lawyer
-injuryattorney
+injuryattorn
 injurylawyer
 inn accordance
 inna cena
@@ -22582,7 +22617,6 @@ instant blog
 instant cash
 instant loan
 instant pay
-instant paysafecard
 instant traff
 instant web
 instant week
@@ -22591,7 +22625,6 @@ instant-blog
 instant-cash
 instant-loan
 instant-pay
-instant-paysafecard
 instant-traff
 instant-web
 instant-week
@@ -23784,6 +23817,8 @@ kartu-poker
 karuteie
 kasino
 kassino
+kasyno online
+kasyno-online
 kat.h.l.e.en
 kat.h.l.ee.n
 kat.h.l.een
@@ -24903,6 +24938,7 @@ link to their online
 link to your online
 link track
 link vault
+link_go
 link-bait
 link-build
 link-camp
@@ -24912,6 +24948,7 @@ link-creati
 link-directory
 link-download
 link-exchang
+link-go
 link-issue
 link-juice
 link-logger
@@ -26060,12 +26097,14 @@ mariageorig
 mariages simplif
 mariages-simplif
 marihuana
+marijuana attorn
 marijuana bene
 marijuana etf
 marijuana fact
 marijuana lawyer
 marijuana sample
 marijuana strain
+marijuana-attorn
 marijuana-bene
 marijuana-etf
 marijuana-fact
@@ -30577,10 +30616,7 @@ paypalcash
 paypall
 paypalmoney
 payroll-calc
-paysafecard exchang
-paysafecard instant
-paysafecard-exchang
-paysafecard-instant
+paysafecard
 pazarlayan pezevengin
 pazarlayan-pezevengin
 pbrolme
@@ -31493,6 +31529,8 @@ poloshoe
 polosralph
 polsce pdf
 polsce-pdf
+polskie kasyno
+polskie-kasyno
 pomyslow prezent
 pomysłow prezent
 pomyslow-prezent
@@ -32272,11 +32310,13 @@ prix-chaus
 prix-ugg
 prixchaus
 prixugg
+pro casino
 pro key
 pro medical
 pro pip
 pro review
 pro_site
+pro-casino
 pro-medical
 pro-pip
 pro-review
@@ -32298,6 +32338,7 @@ problemowych
 probllem
 proc opport
 proc-opport
+procasino
 procedures-for
 proceed travel in
 proceed your writing
@@ -32358,6 +32399,7 @@ professional 2020
 professional 2021
 professional 2022
 professional blog
+professional casino
 professional cosmet
 professional essay
 professional hypno
@@ -32368,6 +32410,7 @@ professional-2020
 professional-2021
 professional-2022
 professional-blog
+professional-casino
 professional-cosmet
 professional-essay
 professional-hypno
@@ -33342,7 +33385,9 @@ redireccion.htm
 redireccion.jsp
 redireccion.php
 redirect_link
+redirect_to
 redirect-link
+redirect-to
 redirect.asp
 redirect.cfm
 redirect.cgi
@@ -35419,6 +35464,8 @@ seznamce
 sg-launch
 sgames.co
 sglaunch
+shade theme
+shade-theme
 shag.ru
 shame on google
 shanghai date
@@ -36015,6 +36062,7 @@ site !
 site .
 site (:
 site =)
+site about animal
 site amor
 site and comment
 site and save
@@ -36228,7 +36276,9 @@ sky-pharm
 skypharm
 skyrocket you
 skyrocket-you
+sleazy attorn
 sleazy lawyer
+sleazy-attorn
 sleazy-lawyer
 sledge baseball
 sledge bat
@@ -39377,15 +39427,17 @@ tracking-a-phone
 tradaoquan
 trade_you
 trading-method
+traffic attorn
 traffic bot
 traffic exchang
 traffic ivy
-traffic lawyer cost
+traffic lawyer
 traffic software
+traffic-attorn
 traffic-bot
 traffic-exchang
 traffic-ivy
-traffic-lawyer-cost
+traffic-lawyer
 traffic-software
 trafficbot
 trafficivy
@@ -41178,6 +41230,7 @@ visit-visit
 visit-web
 visitant
 visitar blog
+visitar mi sitio
 visitar-blog
 visited android app
 visited blog
@@ -41592,6 +41645,7 @@ wear-shapewear
 wearinbed
 weave-hair
 weavehair
+web about animal
 web anal
 web based college
 web blog;
@@ -42336,7 +42390,10 @@ winterjassen
 wirh you
 wise quote
 wise-quote
+wish online
+wish-online
 wishing for blog
+wishonline
 wispy lash
 wispy-lash
 witamina jest
@@ -45027,13 +45084,16 @@ zyvox
 موقع سناره
 موقع صنديد
 نجار بالدما
+نقد فیلم
 نمو الشعر
 نيوز , اخبار
 نيوز اخبار
 نيوز, اخبار
 ها و بلاگ
 و بلاگ ها
+وب سایت
 وب وجود
+وبسایت
 وبلاگ نویسان
 وظائف
 ขาย
